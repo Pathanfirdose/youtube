@@ -1,0 +1,1 @@
+if you unable to find python version type python+two times tab button
