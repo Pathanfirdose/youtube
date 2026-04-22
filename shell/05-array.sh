@@ -11,3 +11,5 @@ echo "all values in it ${myarray[@]}"
 # how  to get lenght of array
 
 echo "no of arrays in this ${#myarray[@]}"
+
+echo "pick specific values ${myarray[@]:1:3}"
