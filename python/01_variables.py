@@ -5,13 +5,13 @@ height_of_rect = 20
 user_name = "firdose"
 father_name = "ghouse khan"
 
-print(user_name)
+print(user_name) # output = firdose 
 
-print(father_name)
+print(father_name) # output = ghouse khan
 
-print('ammi')
+print('ammi') # output = ammi
 
-print(length_of_rect * height_of_rect)
+print(length_of_rect * height_of_rect) # output = 600
 
 print(f'area of rectangle {length_of_rect * height_of_rect}') # f is formating 
 

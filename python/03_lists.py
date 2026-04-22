@@ -70,3 +70,6 @@ print(marks)
 print(min(marks))
 print(max(marks))
 print(sum(marks))
+
+mix_list = ['firdose', 10, 20, True] # we can list mix of string,number,bool
+print(mix_list) 
