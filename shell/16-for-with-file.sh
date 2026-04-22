@@ -6,3 +6,8 @@ for names in $(cat $FILENAME)
 do
     echo "name is $names"
 done
+
+for ip in google.com facebook.com
+do
+    ping $ip
+done
