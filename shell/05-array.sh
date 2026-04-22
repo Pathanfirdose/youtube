@@ -6,4 +6,4 @@ myarray=(1 30 50 firdose "ghouse khan")
 
 echo "this is my array value in third index ${myarray[2]}"
 
-echo "all values in it ${myarray[@]}
+echo "all values in it ${myarray[@]}"
