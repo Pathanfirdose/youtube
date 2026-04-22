@@ -3,7 +3,7 @@
 read -p "enter your age" age
 read -p "enter your country" country
 
-if [ $age -gt 40 ] && [ $country -eq "india" ] # && and condition
+if [ $age -gt 18 ] && [ $country -eq "india" ] # && and condition
 then
     echo "you can vote"
 else
@@ -13,7 +13,7 @@ fi
 read -p "enter your age" age
 read -p "enter your country" country
 
-if [ $age -gt 40 ] || [ $country == "india" ] # || or condition
+if [ $age -gt 18 ] || [ $country == "india" ] # || or condition
 then
     echo "you can vote"
 else
