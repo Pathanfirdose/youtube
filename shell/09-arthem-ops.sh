@@ -7,9 +7,9 @@ let mul=$x*$y
 
 echo $mul
 
-let sum=$x+$y
+# let sum=$x+$y
 
-echo $sum
+# echo $sum
 
 sum=$((x+y))
 
