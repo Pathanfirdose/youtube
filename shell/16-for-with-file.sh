@@ -10,4 +10,5 @@ done
 for ip in google.com facebook.com
 do
     ping $ip
+    sleep 10
 done
