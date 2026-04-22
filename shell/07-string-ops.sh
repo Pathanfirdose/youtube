@@ -9,3 +9,8 @@ echo "length of my vars ${#myvar}"
 
 echo "upper case is ----- ${myvar^^}"
 echo "lower case is ----- ${myvar,,}"
+
+# to replace a string
+
+newVar=${myvar/sabir/riyaz}
+echo "my new var is $myvar"
