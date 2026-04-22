@@ -7,8 +7,3 @@ do
     echo "name is $names"
 done
 
-for ip in google.com facebook.com
-do
-    ping $ip
-    sleep 10
-done
