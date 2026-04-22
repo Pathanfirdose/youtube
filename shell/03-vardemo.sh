@@ -10,4 +10,4 @@ echo my third var is $c
 
 a=2000
 
-echo changed variable
+echo changed variable is $a
