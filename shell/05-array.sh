@@ -13,3 +13,9 @@ echo "all values in it ${myarray[@]}"
 echo "no of arrays in this ${#myarray[@]}"
 
 echo "pick specific values ${myarray[@]:1:3}"
+
+# updating array 
+
+myarray+=(100 200 300)
+
+echo "updated values ${myarray[@]}
