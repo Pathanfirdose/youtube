@@ -10,3 +10,7 @@ echo $mul
 let sum=$x+$y
 
 echo $sum
+
+sum=$((x+y))
+
+echo $sum
