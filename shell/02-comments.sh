@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "commonets
+echo "commonets"
 
 # this is single line comment
