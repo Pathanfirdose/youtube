@@ -10,9 +10,6 @@ is
 multiline comment
 comment
 
-'''
-this
-is 
-also multi line comment
+
 
 
