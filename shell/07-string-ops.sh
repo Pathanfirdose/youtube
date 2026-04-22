@@ -5,3 +5,6 @@ myvar="hey sabir how are you"
 myvarlength=${#myvar}
 
 echo "length of my vars $myvarlength"
+
+echo "upper case is ----- ${myvar^^}"
+echo "lower case is ----- ${myvar,,}"
