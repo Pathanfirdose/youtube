@@ -18,4 +18,4 @@ echo "pick specific values ${myarray[@]:1:3}"
 
 myarray+=(100 200 300)
 
-echo "updated values ${myarray[@]}
+echo "updated values ${myarray[@]}"
