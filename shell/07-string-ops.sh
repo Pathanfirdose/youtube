@@ -14,3 +14,6 @@ echo "lower case is ----- ${myvar,,}"
 
 newVar=${myvar/sabir/riyaz}
 echo "my new var is $newVar"
+
+# to slice a string
+echo "after slice ${myvar:4:5}"
