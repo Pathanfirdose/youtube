@@ -1,0 +1,9 @@
+#!/bin/bash
+
+readonly POST="MLA"
+
+echo $POST
+
+POST="MP"
+
+echo $POST
