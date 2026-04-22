@@ -1,6 +1,6 @@
 #!/bin/bash
 
-function myfunc{
+function myfunc {
     
     echo "----------------------"
     echo "-------welcome--------"
