@@ -13,4 +13,4 @@ echo "lower case is ----- ${myvar,,}"
 # to replace a string
 
 newVar=${myvar/sabir/riyaz}
-echo "my new var is $myvar"
+echo "my new var is $newVar"
