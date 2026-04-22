@@ -1,6 +1,6 @@
 #!/bin/bash
 
-readonly POST="MLA"
+readonly POST="MLA" # no ne can change var in this script
 
 echo $POST
 

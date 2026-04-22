@@ -8,6 +8,6 @@ echo my first var is $a
 echo my second var is $b
 echo my third var is $c
 
-a=2000
+a=2000 #varible change
 
 echo changed variable is $a
