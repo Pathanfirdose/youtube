@@ -3,6 +3,6 @@
 x=10
 y=2
 
-mul=$x*$y
+let mul=$x*$y
 
 echo $mul
