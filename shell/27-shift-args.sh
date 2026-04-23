@@ -5,4 +5,6 @@
 echo creating user
 
 echo username is $1
-echo description is $2
+
+shift
+echo description is $@
