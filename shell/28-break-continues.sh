@@ -12,5 +12,5 @@ do
         echo $no is found....!
         break
     fi
-        echo no is $i
+    echo no is $i
 done
