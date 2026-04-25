@@ -1,5 +1,5 @@
 #!/bin/bash
-
+set -x
 echo "first argument passed is $1"
 echo "second arument passed is $2"
 
