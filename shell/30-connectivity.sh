@@ -2,7 +2,7 @@
 
 read -p "which site you want to ping ? " site
 
-ping -c 1 $site &> /dev/null
+ping -c 1 $site &> /dev/null # doesnt print unwanted data
 # sleep 1s
 
 if [ $? -eq 0 ]
