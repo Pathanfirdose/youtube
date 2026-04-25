@@ -1,5 +1,12 @@
 #!/bin/bash
 set -x
+#to acces all args
+if [ $# -eq 0 ]
+then 
+    echo please provide one arg
+    exit 1
+else
+
 echo "first argument passed is $1"
 echo "second arument passed is $2"
 
