@@ -5,7 +5,7 @@ if [ $# -eq 0 ]
 then 
     echo please provide one arg
     exit 1
-else
+fi
 
 echo "first argument passed is $1"
 echo "second arument passed is $2"
