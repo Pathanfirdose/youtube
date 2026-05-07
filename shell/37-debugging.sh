@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -e
+set -e #if we want exit our script if command fail
 
 pwd
 date

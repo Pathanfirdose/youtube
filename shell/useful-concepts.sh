@@ -17,3 +17,8 @@ if [ ! -f file ] # if file not exist
 
 random
 UID
+
+crontab -l #to list all scheduled scripts
+crontab -e
+    ***** cd /home/ec2-user/youtube/shell && ./34-redirect.sh
+

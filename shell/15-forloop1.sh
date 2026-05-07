@@ -11,4 +11,4 @@ do
     echo "my friend is $names"
 done
 
-# whene ever you want to run script in background use command: nohup ./15-forloop1.sh 
+# whene ever you want to run script in background and write output to file(nohup.out) use command: nohup ./15-forloop1.sh &
