@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo 'hey buddy!'
+echo "hello Pathan, How are you"
