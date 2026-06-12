@@ -10,4 +10,11 @@ is
 multiline comment
 comment
 
+# this is single line command
 
+'''
+hello 
+
+how are you
+
+'''
