@@ -16,4 +16,4 @@ var_1=pathan
 var_2=firdose
 var_3=khan
 
-echo $var_1 ${var_2} ${var_3}
+
